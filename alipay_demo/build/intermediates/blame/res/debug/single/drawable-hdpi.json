@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "G:\\other-sdk\\OtherSDKDemo\\alipay_demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\msp_demo_title_bg.png",
+        "source": "G:\\other-sdk\\OtherSDKDemo\\alipay_demo\\src\\main\\res\\drawable-hdpi\\msp_demo_title_bg.png"
+    },
+    {
+        "merged": "G:\\other-sdk\\OtherSDKDemo\\alipay_demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\msp_demo_title.png",
+        "source": "G:\\other-sdk\\OtherSDKDemo\\alipay_demo\\src\\main\\res\\drawable-hdpi\\msp_demo_title.png"
+    },
+    {
+        "merged": "G:\\other-sdk\\OtherSDKDemo\\alipay_demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\msp_icon.png",
+        "source": "G:\\other-sdk\\OtherSDKDemo\\alipay_demo\\src\\main\\res\\drawable-hdpi\\msp_icon.png"
+    }
+]

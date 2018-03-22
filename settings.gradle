@@ -1,0 +1,3 @@
+include ':app', ':jpushdemo', ':alipaydemo'
+include ':alipay_demo_20'
+include ':alipay_demo'
